@@ -6,4 +6,8 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+I am a front end developer.
+
+- js
+- css
+- html 
